@@ -1,0 +1,6 @@
+Ubuntu
+crontab -e
+
+Windows
+
+(ScheduledTask -TaskName “Flag”).Actions
